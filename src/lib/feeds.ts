@@ -1,4 +1,5 @@
 const feeds: string[] = [
+  "https://www.joshwcomeau.com/rss.xml",
   "https://developer.mozilla.org/en-US/blog/rss.xml",
   "https://developer.chrome.com/static/blog/feed.xml",
   "https://kevingimbel.de/feed",
